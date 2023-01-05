@@ -17,9 +17,7 @@
            "IgnorePublicAcls": false,
            "RestrictPublicBuckets": false
           }
-    }
      }
-}
     },
      "InstanceSecurityGroup" : {
             "Type" : "AWS::EC2::SecurityGroup",
@@ -166,7 +164,7 @@
                     "Description" : "cassandraops"
                  } ,
                     {
-                     "CidrIp" : "0.0.0.0/0",
+                     "CidrIp" : "0.0.0.0/0"
                     "FromPort"   : 3020,
                     "ToPort"    : 3020,
                     "IpProtocol"   : "tcp",
@@ -189,5 +187,4 @@
             }
         }
     }
-{
   
