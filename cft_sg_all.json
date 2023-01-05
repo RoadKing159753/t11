@@ -8,7 +8,7 @@
            "Status": "Suspended"
          },
          "WebsiteConfiguration":{
-           "IndexDocument": "index.html",
+           "IndexDocument": '"index.html",
            "ErrorDocument": "error.html"
       },
          "PublicAccessBlockConfiguration": {
