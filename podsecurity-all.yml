@@ -17,5 +17,5 @@ spec:
   hostNetwork: true
   hostPorts:
   - min: 1
-    max: 
+    max: "8080"
 
