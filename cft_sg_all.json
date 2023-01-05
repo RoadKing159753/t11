@@ -7,7 +7,7 @@
                 "GroupName" : "String",
                 "SecurityGroupIngress" : [{
                      "CidrIp" : "0.0.0.0/0",
-                    "FromPort"   : 80,
+                    "FromPort"   : "80",
                     "ToPort"    : 80,
                     "IpProtocol"   : "tcp",
                     "Description" : "http"
