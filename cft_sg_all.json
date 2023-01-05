@@ -18,6 +18,8 @@
            "RestrictPublicBuckets": false
           }
     }
+     }
+}
     },
      "InstanceSecurityGroup" : {
             "Type" : "AWS::EC2::SecurityGroup",
