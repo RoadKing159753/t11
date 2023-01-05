@@ -8,11 +8,11 @@
            "Status": "Suspended"
          },
          "WebsiteConfiguration":{
-           '"IndexDocument": "index.html",
+           "IndexDocument": "index.html",
            "ErrorDocument": "error.html"
       },
          "PublicAccessBlockConfiguration": {
-           "BlockPublicAcls": false,
+           "BlockPublicAcls": "false",
            "BlockPublicPolicy": false,
            "IgnorePublicAcls": false,
            "RestrictPublicBuckets": false
